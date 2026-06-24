@@ -1,0 +1,12 @@
+{
+  "name": "My Apps Source",
+  "apps": [
+    {
+      "name": "Video Star Pro",
+      "bundleIdentifier": "com.frontierdesign.videostar",
+      "version": "15.2.1",
+      "downloadURL": "https://www.mediafire.com/file/oeyxbctc1kjkrzp/VideoStar_Pro_-_%255Bv15.2.1%255D.ipa/file",
+      "localizedDescription": "Video Star Pro version 15.2.1"
+    }
+  ]
+}
